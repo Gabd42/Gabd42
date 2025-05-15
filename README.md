@@ -1,24 +1,26 @@
-👨‍💻 **Desenvolvedor Backend**
+👨‍💻 Backend Developer | AI & Machine Learning Enthusiast
 
-Olá! Eu sou Gabriel, desenvolvedor backend com uma paixão por criar soluções robustas e escaláveis. Tenho experiência em diversas tecnologias voltadas ao backend e estou sempre buscando aprimorar minhas habilidades e explorar novas ferramentas.
+Hey! I'm Gabriel — a backend developer who loves building real-world solutions that are scalable, efficient, and smart. Lately, I've been exploring the world of Artificial Intelligence and Machine Learning, combining backend logic with intelligent systems to solve problems in more innovative ways.
+🚀 Tools I work with
 
-## 🚀 **Habilidades Técnicas**
+    Languages: Python, JavaScript (Node.js), PHP
 
-- **Linguagens:** JavaScript (Node.js), PHP, Python
-- **Frameworks:** Django, Flutter, 
-- **Banco de Dados:** MySQL, PostgreSQL, MongoDB
-- **Ferramentas:** Git, GitHub, Docker, VSCode
-- **Metodologias:** Agile, Scrum
+    Frameworks: Django, TensorFlow, Flask, Flutter
 
-## 💡 **Sobre Mim**
+    Databases: PostgreSQL, MySQL, MongoDB
 
-- 🎓 **Formação:** Análise e Desenvolvimento de Sistemal, Técnico em Informática
-- 🌱 Atualmente, estou aprimorando minhas habilidades em **Node.js** e **arquiteturas RESTful**.
-- 💼 Aberto a colaborações em projetos backend e desenvolvimento de APIs.
-- 🎯 Objetivo: Construir sistemas escaláveis, seguros e eficientes.
+    Dev Tools: Git, Docker, VSCode, GitHub
 
-## 🔗 **Contatos**
+    AI Tools & Libraries: Scikit-learn, Pandas, NumPy, OpenCV, TensorFlow, ChatGPT API, Hugging Face
 
-- [LinkedIn](https://www.linkedin.com/in/gabrielsouza42/) 
-- [E-mail](mailto:gaabdev42@gmail.com)
+    Methodologies: Agile, Scrum
 
+💡 A bit about me
+
+    🎓 Degree in Systems Analysis and Development + Technical diploma in IT
+
+    👨‍🔬 Currently learning more about AI, Machine Learning, data processing, and building smart APIs
+
+    🤝 Always open to collaborating on backend systems, intelligent apps, or ML-based projects
+
+    🎯 My goal is to build systems that are not only scalable and secure, but also capable of learning and adapting
